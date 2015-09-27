@@ -39,24 +39,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SVD.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SVD.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/edu/wzm/ml/sparkapi/SVD.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="318" max-vertical-offset="902">
+            <state vertical-scroll-proportion="0.13356164" vertical-offset="318" max-vertical-offset="902">
               <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
               <folding>
                 <element signature="e#29#73#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinearRegression.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/edu/wzm/ml/sparkapi/LinearRegression.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18835616" vertical-offset="0" max-vertical-offset="584">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -85,6 +75,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/edu/wzm/ml/sparkapi/KMeansDemo.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/edu/wzm/ml/sparkapi/LogisticRegression.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/edu/wzm/ml/sparkapi/SVD.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/edu/wzm/ml/sparkapi/LinearRegression.scala" />
       </list>
     </option>
   </component>
@@ -601,12 +592,12 @@
       <workItem from="1443269155694" duration="396000" />
       <workItem from="1443269606972" duration="6791000" />
       <workItem from="1443320588073" duration="3361000" />
-      <workItem from="1443327236583" duration="9128000" />
+      <workItem from="1443327236583" duration="9301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20327000" />
+    <option name="totallyTimeSpent" value="20500000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -770,19 +761,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/edu/wzm/ml/sparkapi/SVD.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="318" max-vertical-offset="902">
+        <state vertical-scroll-proportion="0.13356164" vertical-offset="318" max-vertical-offset="902">
           <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
           <folding>
             <element signature="e#29#73#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/edu/wzm/ml/sparkapi/LinearRegression.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18835616" vertical-offset="0" max-vertical-offset="584">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
